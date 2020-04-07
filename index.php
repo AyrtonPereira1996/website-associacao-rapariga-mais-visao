@@ -62,7 +62,7 @@
 
         <div class="row">
             <div class="col-sm-4 my-5 p-0" style="height: 15.5rem;">
-                <div class="card shadow border-0 h-100 rounded-0 mr-0" style="background-color: rgba(179, 62, 138,
+                <div class="card shadow border-0 h-100 rounded-0" style="background-color: rgba(179, 62, 138,
                         0.719);text-align: center;">
                     <div class="card-body overflow-auto">
 
