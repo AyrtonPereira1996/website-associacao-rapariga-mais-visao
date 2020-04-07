@@ -71,7 +71,7 @@
                                 dotted white;">Missão</h3>
 
                         <p class="card-text text-left">
-                            Promover auto-estima, liderança e autonomia nas raparigas, encorajando-as...
+                            Promover auto-estima, liderança e autonomia nas raparigas...
                             <a href="about-us.php#about-mission" class="">ler mais</a>
                         </p>
 
