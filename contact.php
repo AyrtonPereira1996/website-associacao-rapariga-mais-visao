@@ -17,7 +17,9 @@
 <body>
     <header class="mb-5">
         <nav class="navbar fixed-top navbar-expand-lg navbar-light h-auto">
-            <a href="index.php" class="navbar-brand">Associação Raparigas +Visão</a>
+            <a href="index.php" class="navbar-brand">Associação
+                Raparigas +Visão</a>
+
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-elements">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -25,11 +27,10 @@
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item mr-3"><a href="index.php" class="nav-link
                                 font-weight-bolder"><i class="fas fa-home"></i> Inicio</a></li>
-                    <li class="nav-item mr-3"><a href="about-us.php" class="nav-link font-weight-bolder">Quem somos <i
+                    <li class="nav-item mr-3"><a href="#" class="nav-link font-weight-bolder">Quem somos <i
                                 class="fas fa-question"></i></a></li>
                     <li class="nav-item mr-3"><a href="gallery.php" class="nav-link
                         font-weight-bolder"><i class="far fa-images"></i> Galeria</a></li>
-
                     <li class="nav-item mr-3 active"><a href="contact.php" class="nav-link
                                 font-weight-bolder"><i class="fas fa-at"></i> Contato</a></li>
                     <li class="nav-item mr-3"><a href="donation.php" class="nav-link
@@ -46,7 +47,8 @@
     <div class="content">
         <div id="overlay">
             <div class="cv-spinner">
-                <span class="spinner"></span> <h1 class="h1" style="color: #fff;">&nbsp;&nbsp; Por favor aguarde! </h1>
+                <span class="spinner"></span>
+                <h1 class="h1" style="color: #fff;">&nbsp;&nbsp; Por favor aguarde! </h1>
             </div>
         </div>
 
@@ -60,7 +62,7 @@
         </div>
         <div class="container my-5">
             <div class="row">
-                <div class="col-sm-12">
+                <div class="col">
 
                     <section class="mb-5">
                         <p class="p-4 font-weight-bold shadow-sm"
@@ -77,14 +79,16 @@
 
             </div>
             <div class="alert alert-success alert-dismissible fade show" role="alert" id="bsalert-success">
-            <p><i class="fas fa-check fa-3x"></i> A mensagem foi enviada com sucesso. Agradecemos por entrar em contacto connosco!</p>
+                <p><i class="fas fa-check fa-3x"></i> A mensagem foi enviada com sucesso. Agradecemos por entrar em
+                    contacto connosco!</p>
                 <button type="button" class="close" data-dismiss="alert" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                 </button>
             </div>
 
             <div class="alert alert-danger alert-dismissible fade show" role="alert" id="bsalert-fail">
-            <p><i class="fas fa-times fa-3x"></i> Opps! Não foi possível enviar a sua mensagem. Por favor verifique a sua conexão de internet e tente de novo...</p>
+                <p><i class="fas fa-times fa-3x"></i> Opps! Não foi possível enviar a sua mensagem. Por favor verifique
+                    a sua conexão de internet e tente de novo...</p>
                 <button type="button" class="close" data-dismiss="alert" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                 </button>
@@ -138,9 +142,8 @@
                         <h2 class="font-weight-bold">Contatos/Localização</h2><br />
 
                         <p>
-                            <span class="font-weight-bold">E-mail:</span> <a
-                                href="mailto:raparigamaisvisaoparaofuturo@gmail.com">raparigamaisvisaoparaofuturo@gmail.com</a>
-                            / <a href="mailto:fafaabelmatosm@gmail.com">fafaabelmatosm@gmail.com</a><br />
+                            <span class="font-weight-bold">E-mail: </span>
+                            <a href="mailto:fafaabelmatosm@gmail.com">fafaabelmatosm@gmail.com</a><br />
                             <span class="font-weight-bold">Tel.:</span> <a href="tel:+258840183687">+258
                                 840183687</a><br />
 
@@ -163,18 +166,18 @@
 
 
     </div>
-    </div>
+
     <footer>
         <div class="container-fluid">
             <div style="font-size: 1.2em;" class="text-center">
                 <p>
-                    <a class="  " href="about-us.php">Sobre nós</a> <span class="special-character">|</span> <a
-                        class="  " href="about-us.php#about-members">Membros da
+                    <a href="about-us.php">Sobre nós</a> <span class="special-character">|</span> <a
+                        href="about-us.php#about-members">Membros da
                         associação</a> <span class="special-character">|</span> <a class="  "
                         href="about-us.php#about-mission">Missão da associação</a> <span
-                        class="special-character">|</span> <a class="  " href="about-us.php#about-vision">Visão da
+                        class="special-character">|</span> <a href="about-us.php#about-vision">Visão da
                         associação</a> <span class="special-character">|</span>
-                    <a class="  " href="about-us.php#about-values">Valores da associação</a> <span
+                    <a href="about-us.php#about-values">Valores da associação</a> <span
                         class="special-character">|</span> <a class="  " href="about-us.php#about-objectives">Objetivos
                         da associação</a> <span class="special-character">|</span> <a class="  " href="donation.php">Doe
                         para associação</a>
@@ -194,7 +197,7 @@
 
     <script>
     const btnScrollToTop = window.document.querySelector("#btnScrollToTop");
- 
+
     window.addEventListener("scroll", scrollFunction);
 
     btnScrollToTop.addEventListener("click", function() {
