@@ -49,7 +49,7 @@
     <div class="container-fluid mt-n5 p-5" style="background-color: rgba(71,
             174, 179, 0.719); height: 15.0em;">
 
-        <h1 class="text-center text-light font-weight-bold" style="font-size: 5.5em;
+        <h1 class="text-center text-light font-weight-bold" style="font-size: 4em;
                 margin-top: 3.5rem; border-bottom:1px dotted white; font-family: Teko, sans-serif;color: #fff;">Doação</h1>
 
     </div>

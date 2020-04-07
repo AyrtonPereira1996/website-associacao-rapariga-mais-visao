@@ -46,7 +46,7 @@
     <div class="container-fluid mt-n5 p-5" style="background-color: rgba(71,
             174, 179, 0.719); height: 15.0em;">
 
-        <h1 class="text-center text-light font-weight-bold" style="font-size: 5.5em;
+        <h1 class="text-center text-light font-weight-bold" style="font-size: 4em;
                 margin-top: 3.5rem; border-bottom:1px dotted white; font-family:
                 Teko, sans-serif; color: #fff;">Quem somos?</h1>
 
@@ -63,7 +63,7 @@
 
             <div id="about-mission"></div>
             <section>
-                <h2 class="mt-5 text-center font-weight-bold pt-4 pb-1" style="border-top: 1px dotted #FF72CE;">Missão</h2>
+                <h1 class="mt-5 text-center font-weight-bold pt-4 pb-1" style="border-top: 1px dotted #FF72CE;">Missão</h1>
                 <p>
                     Promover a auto-estima, liderança e autonomia nas raparigas, encorajando-as na promoção e divulgação dos seus direitos, lutar contra todo o tipo de abusos e males que as afetam. Também pretendemos capacitar as raparigas de Moçambique a nível nacional
                     para contribuir na tomada de decisões, no desenvolvimento sustentável através de liderança, intervenção social e cidadania.
@@ -72,7 +72,7 @@
 
             <div id="about-vision"></div>
             <section>
-                <h2 class="mt-5 text-center font-weight-bold pb-1 pt-4" style="border-top: 1px dotted #FF72CE;">Visão</h2>
+                <h1 class="mt-5 text-center font-weight-bold pb-1 pt-4" style="border-top: 1px dotted #FF72CE;">Visão</h1>
                 <p>
                     Uma sociedade que respeite e valorize os direitos da rapariga, promova a educação formal, igualdade de género e se engaje na emancipação e no empoderamento e cidadania da rapariga. E ver a rapariga na liderança como referência a nível nacional e internacional
                     no desenvolvimento sustentável do país, para o bem-estar da rapariga.
@@ -81,7 +81,7 @@
 
             <div id="about-values"></div>
             <section id="section-values">
-                <h2 class="mt-5 text-center font-weight-bold pb-1 pt-4" style="border-top: 1px dotted #FF72CE;">Valores</h2>
+                <h1 class="mt-5 text-center font-weight-bold pb-1 pt-4" style="border-top: 1px dotted #FF72CE;">Valores</h1>
                 <p>
 
                     AR+Visão defende os seguintes valores:<br/>
@@ -111,7 +111,7 @@
             <div id="about-objectives"></div>
             <section id="section-objectives">
 
-                <h2 class="mt-5 text-center font-weight-bold pb-1 pt-4" style="border-top: 1px dotted #FF72CE;">Objetivos</h2>
+                <h1 class="mt-5 text-center font-weight-bold pb-1 pt-4" style="border-top: 1px dotted #FF72CE;">Objetivos</h1>
                 <p>
 
                     Como associação sem fins lucrativos temos os seguintes objectivos:<br/><br/>
