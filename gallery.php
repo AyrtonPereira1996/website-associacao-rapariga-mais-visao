@@ -57,8 +57,8 @@
 
     </div>
     <div class="container my-5">
-        <div class="row">
-            <h5 class="ml-auto mr-4"><i class="fas fa-search-plus"></i>[Clique nas imagens para ampliar]</h5>
+        <div class="row my-3">
+            <h5 class=" m-auto "><i class="fas fa-search-plus"></i>[Clique nas imagens para ampliar]</h5>
         </div>
 
         <div class="row">
