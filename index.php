@@ -72,7 +72,7 @@
 
                         <p class="card-text text-left">
                             Promover auto-estima, liderança e autonomia nas raparigas...
-                            <a href="about-us.php#about-mission" class="">ler mais</a>
+                            <a href="about-us.php#about-mission">ler mais</a>
                         </p>
 
 
@@ -84,10 +84,10 @@
                     <div class="card-body overflow-auto">
                         <h3 class="card-title text-black-50
                                 font-weight-bold" style="border-bottom:1px
-                                dotted white;text-align: center;">Visão</h3>
+                                dotted white;text-align:center;">Visão</h3>
                         <p class="card-text  text-left">
-                            Uma sociedade que respeite e valorize os direitos da rapariga, promova...
-                            <a href="about-us.php#about-vision" class="  ">ler mais</a>
+                            Uma sociedade que respeite e valorize os direitos da rapariga...
+                            <a href="about-us.php#about-vision">ler mais</a>
                         </p>
 
                     </div>
@@ -98,7 +98,7 @@
                     <div class="card-body overflow-auto">
                         <h3 class="card-title text-black-50
                                 font-weight-bold" style="border-bottom:1px
-                                dotted white; text-align: center;">Valores</h3>
+                                dotted white; text-align:center;">Valores</h3>
                         <p class="card-text text-left">
                             Acreditamos que todas as raparigas e Mulheres têm a capacidade... <a href="about-us.php#about-values" class="  ">ler mais</a>
                         </p>

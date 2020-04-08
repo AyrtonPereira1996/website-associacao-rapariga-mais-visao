@@ -95,7 +95,7 @@
             </div>
 
             <div class="row">
-                <div class="col">
+                <div class="col-sm-12 col-md-6">
                     <div id="contact-us"></div>
                     <section id="contact">
                         <h2 class="font-weight-bold">Fale connosco
@@ -136,8 +136,10 @@
                     </section>
 
                 </div>
+               
+                <hr class="d-sm-none d-md-block">
 
-                <div class="col">
+                <div class="col-sm-12 col-md-6">
                     <section id="contact">
                         <h2 class="font-weight-bold">Contatos/Localização</h2><br />
 

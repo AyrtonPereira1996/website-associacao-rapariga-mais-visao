@@ -48,7 +48,7 @@
 
         <h1 class="text-center text-light font-weight-bold" style="font-size: 4em;
                 margin-top: 3.5rem; border-bottom:1px dotted white; font-family:
-                Teko, sans-serif; color: #fff;">Quem somos?</h1>
+                Teko, sans-serif; color: #fff;" style="text-align: left !important;">Quem somos?</h1>
 
     </div>
     <div class="container my-5">
