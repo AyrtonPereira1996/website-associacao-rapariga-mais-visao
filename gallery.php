@@ -64,13 +64,12 @@
         <div class="row">
             <div class="col ml-5 mr-2">
                 <div class="gallery pt-3 text-center">
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200222-WA0101.png"><img src="/_pictures/_gallery/_small/small_IMG-20200222-WA0101.png" alt=""></a>
+                   
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200222-WA0100.png"><img src="/_pictures/_gallery/_small/small_IMG-20200222-WA0100.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200222-WA0099.png"><img src="/_pictures/_gallery/_small/small_IMG-20200222-WA0099.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200222-WA0098.png"><img src="/_pictures/_gallery/_small/small_IMG-20200222-WA0098.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200222-WA0097.png"><img src="/_pictures/_gallery/_small/small_IMG-20200222-WA0097.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200222-WA0096.png"><img src="/_pictures/_gallery/_small/small_IMG-20200222-WA0096.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200222-WA0095.png"><img src="/_pictures/_gallery/_small/small_IMG-20200222-WA0095.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200222-WA0094.png"><img src="/_pictures/_gallery/_small/small_IMG-20200222-WA0094.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200222-WA0092.png"><img src="/_pictures/_gallery/_small/small_IMG-20200222-WA0092.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200222-WA0091.png"><img src="/_pictures/_gallery/_small/small_IMG-20200222-WA0091.png" alt=""></a>
@@ -86,91 +85,55 @@
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200125-WA0024.png"><img src="/_pictures/_gallery/_small/small_IMG-20200125-WA0024.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200125-WA0023.png"><img src="/_pictures/_gallery/_small/small_IMG-20200125-WA0023.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200125-WA0022.png"><img src="/_pictures/_gallery/_small/small_IMG-20200125-WA0022.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200125-WA0021.png"><img src="/_pictures/_gallery/_small/small_IMG-20200125-WA0021.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200125-WA0020.png"><img src="/_pictures/_gallery/_small/small_IMG-20200125-WA0020.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200125-WA0019.png"><img src="/_pictures/_gallery/_small/small_IMG-20200125-WA0019.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200125-WA0018.png"><img src="/_pictures/_gallery/_small/small_IMG-20200125-WA0018.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200125-WA0017.png"><img src="/_pictures/_gallery/_small/small_IMG-20200125-WA0017.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200125-WA0016.png"><img src="/_pictures/_gallery/_small/small_IMG-20200125-WA0016.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200125-WA0015.png"><img src="/_pictures/_gallery/_small/small_IMG-20200125-WA0015.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200125-WA0014.png"><img src="/_pictures/_gallery/_small/small_IMG-20200125-WA0014.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200125-WA0013.png"><img src="/_pictures/_gallery/_small/small_IMG-20200125-WA0013.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200125-WA0012.png"><img src="/_pictures/_gallery/_small/small_IMG-20200125-WA0012.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200125-WA0011.png"><img src="/_pictures/_gallery/_small/small_IMG-20200125-WA0011.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200125-WA0010-2.png"><img src="/_pictures/_gallery/_small/small_IMG-20200125-WA0010-2.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200125-WA0007.png"><img src="/_pictures/_gallery/_small/small_IMG-20200125-WA0007.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200125-WA0006.png"><img src="/_pictures/_gallery/_small/small_IMG-20200125-WA0006.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0144.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0144.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0132.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0132.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0130.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0130.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0122.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0122.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0120.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0120.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0115.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0115.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0093.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0093.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0085.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0085.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0079.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0079.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0078.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0078.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0077.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0077.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0075.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0075.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0073.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0073.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0072.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0072.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0070.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0070.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0066.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0066.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0065.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0065.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0063.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0063.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0061.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0061.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0060.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0060.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0059.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0059.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0057.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0057.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0056.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0056.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0054.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0054.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0053.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0053.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0043.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0043.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0042.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0042.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0041.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0041.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0040.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0040.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0039.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0039.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0038.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0038.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0037.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0037.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0036.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0036.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0035.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0035.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0034.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0034.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0033.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0033.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0032.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0032.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0031.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0031.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0030.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0030.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0029.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0029.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0028.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0028.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0023.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0023.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0022.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0022.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0021.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0021.png" alt=""></a>
+                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0023.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0023.png" alt=""></a>                   
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0019.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0019.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0018.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0018.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0017.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0017.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0013.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0013.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0012.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0012.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0011.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0011.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0010.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0010.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0009.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0009.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0007.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0007.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0006.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0006.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0005.png"><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0005.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200117-WA0061.png"><img src="/_pictures/_gallery/_small/small_IMG-20200117-WA0061.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200117-WA0049.png"><img src="/_pictures/_gallery/_small/small_IMG-20200117-WA0049.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200117-WA0048.png"><img src="/_pictures/_gallery/_small/small_IMG-20200117-WA0048.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200117-WA0047.png"><img src="/_pictures/_gallery/_small/small_IMG-20200117-WA0047.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200117-WA0046.png"><img src="/_pictures/_gallery/_small/small_IMG-20200117-WA0046.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200117-WA0045.png"><img src="/_pictures/_gallery/_small/small_IMG-20200117-WA0045.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200117-WA0044.png"><img src="/_pictures/_gallery/_small/small_IMG-20200117-WA0044.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200117-WA0043.png"><img src="/_pictures/_gallery/_small/small_IMG-20200117-WA0043.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200117-WA0042.png"><img src="/_pictures/_gallery/_small/small_IMG-20200117-WA0042.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200117-WA0041.png"><img src="/_pictures/_gallery/_small/small_IMG-20200117-WA0041.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200117-WA0040.png"><img src="/_pictures/_gallery/_small/small_IMG-20200117-WA0040.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200117-WA0039.png"><img src="/_pictures/_gallery/_small/small_IMG-20200117-WA0039.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200117-WA0038.png"><img src="/_pictures/_gallery/_small/small_IMG-20200117-WA0038.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200117-WA0036.png"><img src="/_pictures/_gallery/_small/small_IMG-20200117-WA0036.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200117-WA0033.png"><img src="/_pictures/_gallery/_small/small_IMG-20200117-WA0033.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200117-WA0032.png"><img src="/_pictures/_gallery/_small/small_IMG-20200117-WA0032.png" alt=""></a>
+                    
+                    
+                    
                 </div>
             </div>
         </div>

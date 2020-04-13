@@ -137,7 +137,7 @@
 
                 </div>
                
-                <hr class="d-sm-none d-md-block">
+
 
                 <div class="col-sm-12 col-md-6">
                     <section id="contact">
