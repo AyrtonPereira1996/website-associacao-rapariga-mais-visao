@@ -57,7 +57,7 @@
             174, 179, 0.719); height: 15.0em;">
 
             <h1 class="text-center text-light font-weight-bold" style="font-size:4em;
-                margin-top: 3.5rem; border-bottom:1px dotted white; font-family: Teko, sans-serif;color: #fff;">Contato
+                margin-top: 3.5rem; font-family: Teko, sans-serif;color: #fff;">Contato
             </h1>
         </div>
         <div class="container my-5">
@@ -66,7 +66,7 @@
 
                     <section class="mb-5">
                         <p class="p-4 font-weight-bold shadow-sm"
-                            style="border: 1px dotted #FF72CE; border-radius: 10px;">A AR+V
+                            style="border: 5px dotted rgba(179, 62, 138); border-radius: 10px;">A AR+V
                             é
                             uma Associação de âmbito provincial com sede na Cidade de Quelimane que pode estabelecer
                             delegações nos distritos da província da Zambézia (Moçambique) com fim de alargar as suas

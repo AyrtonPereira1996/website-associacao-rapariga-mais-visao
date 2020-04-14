@@ -22,7 +22,7 @@
 <body>
 
     <header class="mb-5">
-        <nav class="navbar fixed-top navbar-expand-lg navbar-light h-auto">
+        <nav class="navbar fixed-top navbar-expand-lg navbar-light h-auto" >
             <a href="index.php" class="navbar-brand">Associação
                 Raparigas +Visão</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-elements">
@@ -62,12 +62,12 @@
 
         <div class="row">
             <div class="col-sm-4 my-5 p-0" style="height: 15.5rem;">
-                <div class="card shadow border-0 h-100 rounded-0" style="background-color: rgba(179, 62, 138,
-                        0.719);text-align: center;">
+                <div class="card shadow h-100 rounded-0" style="background-color: rgba(179, 62, 138,
+                        0.719);text-align: center; border-right: 1px white dotted;">
                     <div class="card-body overflow-auto">
 
                         <h3 class="card-title text-black-50
-                                font-weight-bold" style="border-bottom:1px
+                                font-weight-bold" style="border-bottom:2.5px
                                 dotted white;">Missão</h3>
 
                         <p class="card-text text-left">
@@ -80,10 +80,11 @@
                 </div>
             </div>
             <div class="col-sm-4 my-5 p-0" style="height: 15.5rem;">
-                <div class="card shadow border-0 h-100 rounded-0" style="background-color: rgba(255, 114, 206, 0.719);">
+                <div class="card shadow  h-100 rounded-0" style="background-color: rgba(179, 62, 138,
+                        0.719); border-right: 1px white dotted;">
                     <div class="card-body overflow-auto">
                         <h3 class="card-title text-black-50
-                                font-weight-bold" style="border-bottom:1px
+                                font-weight-bold" style="border-bottom:2.5px
                                 dotted white;text-align:center;">Visão</h3>
                         <p class="card-text  text-left">
                             Uma sociedade que respeite e valorize os direitos da rapariga...
@@ -94,10 +95,11 @@
                 </div>
             </div>
             <div class="col-sm-4 my-5 p-0" style="height: 15.5rem;">
-                <div class="card shadow border-0 h-100 rounded-0" style="background-color: rgba(71, 174, 179, 0.719);">
+                <div class="card shadow border-0 h-100 rounded-0" style="background-color: rgba(179, 62, 138,
+                        0.719)">
                     <div class="card-body overflow-auto">
                         <h3 class="card-title text-black-50
-                                font-weight-bold" style="border-bottom:1px
+                                font-weight-bold" style="border-bottom:2.5px
                                 dotted white; text-align:center;">Valores</h3>
                         <p class="card-text text-left">
                             Acreditamos que todas as raparigas e Mulheres têm a capacidade... <a href="about-us.php#about-values" class="  ">ler mais</a>
@@ -113,9 +115,9 @@
     </div>
 
 
-    <div class="container">
-        <section class="text-left">
-            <h1 class="text-center">Bem-vindo ao canto da Associação Raparigas +Visão!</h1>
+    <div class="container mt-4">
+        <section class="text-left ">
+            <h1 class="text-center" style="font-family: 'IndieFlower', cursive;">Bem-vindo ao canto da Associação Raparigas +Visão!</h1>
             <p>
                 Atualmente nas comunidades tem-se visto uma total ignorância da emancipação, empoderamento em especial a igualdade de género das raparigas, por parte de alguns pais e agregados, em alguns casos e pela falta de conhecimento ou pelo baixo nível de escolaridade
                 dessas pessoas na comunidade. Por via dessa ignorância é notável ainda desvalorização da rapariga por parte da sociedade, isto leva a níveis drásticos, dentre eles tem se os casamentos prematuros, o abandono do convívio familiar, a prática
@@ -137,15 +139,17 @@
         </section>
     </div>
 
-    <div class="jumbotron jumbotron-fluid mb-0 mt-4" style="height: 15.5rem;
-            background-color:rgb(255, 238, 140);">
+    <div class="jumbotron jumbotron-fluid mb-0 mt-5" style="height: 15.5rem;
+            background-color:rgb(255, 238, 140); border-top: 1.5px solid rgba(179, 62, 138, 0.918)">
         <div class="container-fluid text-center">
-            <h4>Deseja obter mais informações sobre <span style="color:
+            <!-- <h4>Deseja obter mais informações sobre <span style="color:
                         rgb(71, 174, 179);font-family: Teko,
                         sans-serif;font-size: 2.3em;">A</span><span style="color: rgb(255, 114, 206);font-family: Teko,
                         sans-serif;font-size: 2.3em;">R</span><span><span style="color: rgb(255, 255, 255);font-family: Teko,
                             sans-serif;font-size: 2.3em;">+</span><span class="" style="color:rgb(179, 62, 138);font-family: Teko,
-                            sans-serif;font-size: 2.3em;">V</span>?</h4>
+                            sans-serif;font-size: 2.3em;">V</span>?</h4> -->
+
+                            <h2 class="mb-3" style="font-family: 'IndieFlower', cursive;">Deseja obter mais informações sobre Associação Rapariga +Visão?</h2>
             <span><a href="contact.php#contact-us" class="btn
                         button-contact" ><i class="far fa-envelope fa-lg" id="icon-envelope"></i>
                     <span style="font-family: Teko,

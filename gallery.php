@@ -52,7 +52,7 @@
             174, 179, 0.719); height: 15.0em;">
 
         <h1 class="text-center text-light font-weight-bold" style="font-size: 4em;
-                margin-top: 3.5rem; border-bottom:1px dotted white; font-family: Teko, sans-serif;color: #fff;">
+                margin-top: 3.5rem; font-family: Teko, sans-serif;color: #fff;">
             Galeria</h1>
 
     </div>
