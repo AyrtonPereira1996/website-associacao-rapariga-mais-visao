@@ -53,12 +53,9 @@
         </div>
 
 
-        <div class="container-fluid mt-n5 p-5" style="background-color: rgba(71,
-            174, 179, 0.719); height: 15.0em;">
+        <div class="container-fluid mt-n5 p-5 title-page-area">
 
-            <h1 class="text-center text-light font-weight-bold" style="font-size:4em;
-                margin-top: 3.5rem; font-family: Teko, sans-serif;color: #fff;">Contato
-            </h1>
+            <h1 class="text-center text-light font-weight-bold">Contato</h1>
         </div>
         <div class="container my-5">
             <div class="row">
@@ -173,9 +170,7 @@
         <div class="container-fluid">
             <div style="font-size: 1.2em;" class="text-center">
                 <p>
-                    <a href="about-us.php">Sobre nós</a> <span class="special-character">|</span> <a
-                        href="about-us.php#about-members">Membros da
-                        associação</a> <span class="special-character">|</span> <a class="  "
+                    <a href="about-us.php">Sobre nós</a> <span class="special-character">|</span> <a class="  "
                         href="about-us.php#about-mission">Missão da associação</a> <span
                         class="special-character">|</span> <a href="about-us.php#about-vision">Visão da
                         associação</a> <span class="special-character">|</span>

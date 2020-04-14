@@ -68,11 +68,11 @@
 
                         <h3 class="card-title text-black-50
                                 font-weight-bold" style="border-bottom:2.5px
-                                dotted white;">Missão</h3>
+                                dotted rgba(255, 255, 255, 0.856);">Missão</h3>
 
                         <p class="card-text text-left">
-                            Promover auto-estima, liderança e autonomia nas raparigas...
-                            <a href="about-us.php#about-mission">ler mais</a>
+                            Promover auto-estima, liderança e autonomia nas...
+                            <a href="about-us.php#about-mission" class="link-card"> leia mais</a>
                         </p>
 
 
@@ -85,10 +85,10 @@
                     <div class="card-body overflow-auto">
                         <h3 class="card-title text-black-50
                                 font-weight-bold" style="border-bottom:2.5px
-                                dotted white;text-align:center;">Visão</h3>
+                                dotted rgba(255, 255, 255, 0.856);text-align:center;">Visão</h3>
                         <p class="card-text  text-left">
-                            Uma sociedade que respeite e valorize os direitos da rapariga...
-                            <a href="about-us.php#about-vision">ler mais</a>
+                            Uma sociedade que respeite e valorize os direitos da...
+                            <a href="about-us.php#about-vision" class="link-card "> leia mais</a>
                         </p>
 
                     </div>
@@ -100,9 +100,9 @@
                     <div class="card-body overflow-auto">
                         <h3 class="card-title text-black-50
                                 font-weight-bold" style="border-bottom:2.5px
-                                dotted white; text-align:center;">Valores</h3>
+                                dotted rgba(255, 255, 255, 0.856); text-align:center;">Valores</h3>
                         <p class="card-text text-left">
-                            Acreditamos que todas as raparigas e Mulheres têm a capacidade... <a href="about-us.php#about-values" class="  ">ler mais</a>
+                            Acreditamos que todas as raparigas e Mulheres... <a href="about-us.php#about-values" class="link-card">leia mais</a>
                         </p>
 
 
@@ -117,7 +117,7 @@
 
     <div class="container mt-4">
         <section class="text-left ">
-            <h1 class="text-center" style="font-family: 'IndieFlower', cursive;">Bem-vindo ao canto da Associação Raparigas +Visão!</h1>
+            <h1 class="text-center mb-4" style="font-family: 'IndieFlower', cursive;">Bem-vindo ao canto da Associação Raparigas +Visão!</h1>
             <p>
                 Atualmente nas comunidades tem-se visto uma total ignorância da emancipação, empoderamento em especial a igualdade de género das raparigas, por parte de alguns pais e agregados, em alguns casos e pela falta de conhecimento ou pelo baixo nível de escolaridade
                 dessas pessoas na comunidade. Por via dessa ignorância é notável ainda desvalorização da rapariga por parte da sociedade, isto leva a níveis drásticos, dentre eles tem se os casamentos prematuros, o abandono do convívio familiar, a prática
@@ -164,9 +164,8 @@
         <div class="container-fluid">
             <div style="font-size: 1.2em;" class="text-center">
                 <p>
-                    <a class="  " href="about-us.php">Sobre nós</a> <span class="special-character">|</span> <a class="  " href="about-us.php#about-members">Membros da
-                        associação</a> <span class="special-character">|</span> <a class="  " href="about-us.php#about-mission">Missão da associação</a> <span class="special-character">|</span> <a class="  " href="about-us.php#about-vision">Visão da associação</a>                    <span class="special-character">|</span>
-                    <a class="  " href="about-us.php#about-values">Valores da associação</a>
+                    <a href="about-us.php">Sobre nós</a> <span class="special-character">|</span> <a class="  " href="about-us.php#about-mission">Missão da associação</a> <span class="special-character">|</span> <a class="  " href="about-us.php#about-vision">Visão da associação</a>                    <span class="special-character">|</span>
+                    <a href="about-us.php#about-values">Valores da associação</a>
                     <span class="special-character">|</span> <a class="  " href="about-us.php#about-objectives">Objetivos da associação</a> <span class="special-character">|</span> <a class="  " href="donation.php">Doe para associação</a>
                 </p>
             </div>
