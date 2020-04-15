@@ -53,8 +53,8 @@
     </button>
     <div class="container">
         <div class="row">
-            <div class="col-sm-12 text-center my-5">
-                <h1 style="font-family: 'IndieFlower', cursive;">"Unidos para realçar a imagem da Rapariga e Mulher
+            <div class="col-sm-12 text-center mt-4">
+                <h1 style="font-family: 'IndieFlower', cursive;" class="mt-5">"Unidos para realçar a imagem da Rapariga e Mulher
                     Moçambicana!"
                 </h1>
             </div>

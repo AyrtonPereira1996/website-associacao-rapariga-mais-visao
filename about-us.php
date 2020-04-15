@@ -54,7 +54,7 @@
 
                 <h1 class="mt-5 mb-3 font-weight-bold">O que é a Associação Raparigas +Visão?</h1>
                 <p>
-                    A AR+V é uma associação Moçambicana sem fins lucrativos de caris democrático, social e humanitário composta por jovens que procura trabalhar na promoção dos direitos das raparigas e dos males que afectam a mesma.
+                    A AR+V é uma associação Moçambicana sem fins lucrativos de caris democrático, social e humanitário composta por jovens que procuram trabalhar na promoção dos direitos das raparigas e dos males que afectam a mesma.
                 </p>
             </section>
 
