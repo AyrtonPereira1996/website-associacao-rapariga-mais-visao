@@ -22,7 +22,7 @@
 <body>
 
     <header class="mb-5">
-        <nav class="navbar fixed-top navbar-expand-lg navbar-light h-auto" >
+        <nav class="navbar fixed-top navbar-expand-lg navbar-light h-auto">
             <a href="index.php" class="navbar-brand">Associação
                 Raparigas +Visão</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-elements">
@@ -54,7 +54,8 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-12 text-center my-5">
-                <h1 style="font-family: 'IndieFlower', cursive;">"Unidos para realçar a imagem da Rapariga e Mulher Moçambicana!"
+                <h1 style="font-family: 'IndieFlower', cursive;">"Unidos para realçar a imagem da Rapariga e Mulher
+                    Moçambicana!"
                 </h1>
             </div>
 
@@ -102,7 +103,8 @@
                                 font-weight-bold" style="border-bottom:2.5px
                                 dotted rgba(255, 255, 255, 0.856); text-align:center;">Valores</h3>
                         <p class="card-text text-left">
-                            Acreditamos que todas as raparigas e Mulheres... <a href="about-us.php#about-values" class="link-card">leia mais</a>
+                            Acreditamos que todas as raparigas e Mulheres... <a href="about-us.php#about-values"
+                                class="link-card">leia mais</a>
                         </p>
 
 
@@ -117,22 +119,39 @@
 
     <div class="container mt-4">
         <section class="text-left ">
-            <h1 class="text-center mb-4" style="font-family: 'IndieFlower', cursive;">Bem-vindo ao canto da Associação Raparigas +Visão!</h1>
+            <h1 class="text-center mb-4" style="font-family: 'IndieFlower', cursive;">Bem-vindo ao canto da Associação
+                Raparigas +Visão!</h1>
             <p>
-                Atualmente nas comunidades tem-se visto uma total ignorância da emancipação, empoderamento em especial a igualdade de género das raparigas, por parte de alguns pais e agregados, em alguns casos e pela falta de conhecimento ou pelo baixo nível de escolaridade
-                dessas pessoas na comunidade. Por via dessa ignorância é notável ainda desvalorização da rapariga por parte da sociedade, isto leva a níveis drásticos, dentre eles tem se os casamentos prematuros, o abandono do convívio familiar, a prática
-                da prostituição sendo que em algumas vezes para poder sustentar a família, diante de tudo isso maior parte dessas raparigas são obrigadas a abandonar a escola, de modo adaptar-se a novas realidades para o sustento cotidiano.
+                Atualmente nas comunidades tem-se visto uma total ignorância da emancipação, empoderamento em especial a
+                igualdade de género das raparigas, por parte de alguns pais e agregados, em alguns casos e pela falta de
+                conhecimento ou pelo baixo nível de escolaridade
+                dessas pessoas na comunidade. Por via dessa ignorância é notável ainda desvalorização da rapariga por
+                parte da sociedade, isto leva a níveis drásticos, dentre eles tem se os casamentos prematuros, o
+                abandono do convívio familiar, a prática
+                da prostituição sendo que em algumas vezes para poder sustentar a família, diante de tudo isso maior
+                parte dessas raparigas são obrigadas a abandonar a escola, de modo adaptar-se a novas realidades para o
+                sustento cotidiano.
             </p>
 
             <p>
-                A rapariga sempre vem sendo uma camada frágil na sociedade, estando sujeita a muitas maneiras de abuso muitas delas perpetradas aos olhos impávidos da sociedade principalmente no âmbito das culturas locais das regiões a nível de todo o mundo. Em Moçambique
-                as raparigas não são excepção do resto do mundo, estão também sujeitas a diversos tipos de abuso na sociedade em geral. Para além destes males que violam os direitos das raparigas restringindo muitas das vezes o acesso a educação que de
-                certa forma é um pilar para o desenvolvimento da própria rapariga. São notórios abusos sexuais nas escolas e nas comunidades, a violência baseada no género, a violação física, dentre outras maneiras de violação das raparigas.
+                A rapariga sempre vem sendo uma camada frágil na sociedade, estando sujeita a muitas maneiras de abuso
+                muitas delas perpetradas aos olhos impávidos da sociedade principalmente no âmbito das culturas locais
+                das regiões a nível de todo o mundo. Em Moçambique
+                as raparigas não são excepção do resto do mundo, estão também sujeitas a diversos tipos de abuso na
+                sociedade em geral. Para além destes males que violam os direitos das raparigas restringindo muitas das
+                vezes o acesso a educação que de
+                certa forma é um pilar para o desenvolvimento da própria rapariga. São notórios abusos sexuais nas
+                escolas e nas comunidades, a violência baseada no género, a violação física, dentre outras maneiras de
+                violação das raparigas.
             </p>
 
             <p>
-                Neste contexto, surge a iniciativa de criação de uma Associação provincial das raparigas+ visão, constituída por raparigas na sua maioria e por rapazes, com objectivo de abordar assuntos que afectam as raparigas de forma negativa, propor soluções as entidades
-                componentes, fortalecer o movimento de associativismo, realizar actividades que tendem a elevar e promover os direitos das raparigas em todos os círculos da sociedade. Descolonizar o pensamento do agressor ou seja do violador, criar mecanismos
+                Neste contexto, surge a iniciativa de criação de uma Associação provincial das raparigas+ visão,
+                constituída por raparigas na sua maioria e por rapazes, com objectivo de abordar assuntos que afectam as
+                raparigas de forma negativa, propor soluções as entidades
+                componentes, fortalecer o movimento de associativismo, realizar actividades que tendem a elevar e
+                promover os direitos das raparigas em todos os círculos da sociedade. Descolonizar o pensamento do
+                agressor ou seja do violador, criar mecanismos
                 de autodefesa das raparigas na sociedade em geral.
             </p>
 
@@ -142,19 +161,10 @@
     <div class="jumbotron jumbotron-fluid mb-0 mt-5" style="height: 15.5rem;
             background-color:rgb(255, 238, 140); border-top: 1.5px solid rgba(179, 62, 138, 0.918)">
         <div class="container-fluid text-center">
-            <!-- <h4>Deseja obter mais informações sobre <span style="color:
-                        rgb(71, 174, 179);font-family: Teko,
-                        sans-serif;font-size: 2.3em;">A</span><span style="color: rgb(255, 114, 206);font-family: Teko,
-                        sans-serif;font-size: 2.3em;">R</span><span><span style="color: rgb(255, 255, 255);font-family: Teko,
-                            sans-serif;font-size: 2.3em;">+</span><span class="" style="color:rgb(179, 62, 138);font-family: Teko,
-                            sans-serif;font-size: 2.3em;">V</span>?</h4> -->
-
-                            <h2 class="mb-3" style="font-family: 'IndieFlower', cursive;">Deseja obter mais informações sobre Associação Rapariga +Visão?</h2>
-            <span><a href="contact.php#contact-us" class="btn
-                        button-contact" ><i class="far fa-envelope fa-lg" id="icon-envelope"></i>
-                    <span style="font-family: Teko,
-                        sans-serif;"> Fale
-                        connosco</span></a>
+            <h2 class="mb-5 mt-n3" style="font-family: 'IndieFlower', cursive;">Deseja obter mais informações sobre
+                Associação Rapariga +Visão?</h2>
+            <span><a href="contact.php#contact-us" class="btn button-contact mt-n5"><i class="far fa-envelope fa-lg" id="icon-envelope"></i>
+                    <span style="font-family: Teko, sans-serif;"> Fale connosco</span></a>
             </span>
         </div>
     </div>
@@ -164,14 +174,22 @@
         <div class="container-fluid">
             <div style="font-size: 1.2em;" class="text-center">
                 <p>
-                    <a href="about-us.php">Sobre nós</a> <span class="special-character">|</span> <a class="  " href="about-us.php#about-mission">Missão da associação</a> <span class="special-character">|</span> <a class="  " href="about-us.php#about-vision">Visão da associação</a>                    <span class="special-character">|</span>
+                    <a href="about-us.php">Sobre nós</a> <span class="special-character">|</span> <a class="  "
+                        href="about-us.php#about-mission">Missão da associação</a> <span
+                        class="special-character">|</span> <a class="  " href="about-us.php#about-vision">Visão da
+                        associação</a> <span class="special-character">|</span>
                     <a href="about-us.php#about-values">Valores da associação</a>
-                    <span class="special-character">|</span> <a class="  " href="about-us.php#about-objectives">Objetivos da associação</a> <span class="special-character">|</span> <a class="  " href="donation.php">Doe para associação</a>
+                    <span class="special-character">|</span> <a class="  "
+                        href="about-us.php#about-objectives">Objetivos da associação</a> <span
+                        class="special-character">|</span> <a class="  " href="donation.php">Doe para associação</a>
                 </p>
             </div>
 
             <div class="text-center">
-                <p>Copyright 2020 &copy; - Associação Raparigas + Visão <a target="_blank" href="https://pt.wikipedia.org/wiki/Mo%C3%A7ambique">(Moçambique)</a><br /> Made with <i class="fas fa-heart"></i> by Ayrton Pereira - <a href="mailto:ayrton_pereira1996@hotmail.com">ayrton_pereira1996@hotmail.com</a></p>
+                <p>Copyright 2020 &copy; - Associação Raparigas + Visão <a target="_blank"
+                        href="https://pt.wikipedia.org/wiki/Mo%C3%A7ambique">(Moçambique)</a><br /> Made with <i
+                        class="fas fa-heart"></i> by Ayrton Pereira - <a
+                        href="mailto:ayrton_pereira1996@hotmail.com">ayrton_pereira1996@hotmail.com</a></p>
             </div>
 
         </div>
@@ -179,37 +197,37 @@
 
 
     <script>
-        const btnScrollToTop = document.querySelector("#btnScrollToTop");
+    const btnScrollToTop = document.querySelector("#btnScrollToTop");
 
 
-        function onMouseOverIconEnvelopeChange() {
-            let icon_envelope = document.querySelector("#icon-envelope");
-            if (icon_envelope.classList.contains("fa-envelope")) {
-                icon_envelope.classList.remove("fa-envelope")
-                icon_envelope.classList.add("fa-envelope-open")
-            }
+    function onMouseOverIconEnvelopeChange() {
+        let icon_envelope = document.querySelector("#icon-envelope");
+        if (icon_envelope.classList.contains("fa-envelope")) {
+            icon_envelope.classList.remove("fa-envelope")
+            icon_envelope.classList.add("fa-envelope-open")
         }
+    }
 
-        function onMouseOutIconEnvelopeReturn() {
-            let icon_envelope = document.querySelector("#icon-envelope");
-            if (!icon_envelope.classList.contains("fa-envelope")) {
-                icon_envelope.classList.remove("fa-envelope-open")
-                icon_envelope.classList.add("fa-envelope")
-            }
+    function onMouseOutIconEnvelopeReturn() {
+        let icon_envelope = document.querySelector("#icon-envelope");
+        if (!icon_envelope.classList.contains("fa-envelope")) {
+            icon_envelope.classList.remove("fa-envelope-open")
+            icon_envelope.classList.add("fa-envelope")
         }
+    }
 
 
 
 
-        window.addEventListener("scroll", scrollFunction);
+    window.addEventListener("scroll", scrollFunction);
 
-        btnScrollToTop.addEventListener("click", function() {
-            window.scrollTo({
-                left: 0,
-                top: 0,
-                behavior: "smooth"
-            })
+    btnScrollToTop.addEventListener("click", function() {
+        window.scrollTo({
+            left: 0,
+            top: 0,
+            behavior: "smooth"
         })
+    })
     </script>
 
     <script src="/_fontAwesome/js/all.js"></script>
