@@ -54,7 +54,8 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-12 text-center mt-4">
-                <h1 style="font-family: 'IndieFlower', cursive;" class="mt-5">"Unidos para realçar a imagem da Rapariga e Mulher
+                <h1 style="font-family: 'IndieFlower', cursive;" class="mt-5">"Unidos para realçar a imagem da Rapariga
+                    e Mulher
                     Moçambicana!"
                 </h1>
             </div>
@@ -163,7 +164,8 @@
         <div class="container-fluid text-center">
             <h2 class="mb-5 mt-n3" style="font-family: 'IndieFlower', cursive;">Deseja obter mais informações sobre
                 Associação Rapariga +Visão?</h2>
-            <span><a href="contact.php#contact-us" class="btn button-contact mt-n5"><i class="far fa-envelope fa-lg" id="icon-envelope"></i>
+            <span><a href="contact.php#contact-us" class="btn button-contact mt-n5"><i class="far fa-envelope fa-lg"
+                        id="icon-envelope"></i>
                     <span style="font-family: Teko, sans-serif;"> Fale connosco</span></a>
             </span>
         </div>
