@@ -36,10 +36,10 @@
                     </li>
                     <li class="nav-item mr-3"><a href="about-us.php" class="nav-link
                                 font-weight-bolder"> Quem somos <i class="fas fa-question"></i></a></li>
+                    <li class="nav-item mr-3"><a href="activities.html" class="nav-link font-weight-bolder">Actividades</a></li>
                     <li class="nav-item mr-3"><a href="gallery.php" class="nav-link
                                     font-weight-bolder"><i class="far fa-images"></i> Galeria</a></li>
-                    <li class="nav-item mr-3"><a href="contact.php" class="nav-link font-weight-bolder"><i
-                                class="fas fa-at"></i> Contato</a></li>
+                    <li class="nav-item mr-3"><a href="contact.php" class="nav-link font-weight-bolder"><i class="fas fa-at"></i> Contato</a></li>
                     <li class="nav-item mr-3">
                         <a href="donation.php" class="nav-link
                                 font-weight-bolder"> <i class="fas fa-hand-holding-heart"></i> Doação</a>
@@ -104,8 +104,7 @@
                                 font-weight-bold" style="border-bottom:2.5px
                                 dotted rgba(255, 255, 255, 0.856); text-align:center;">Valores</h3>
                         <p class="card-text text-left">
-                            Acreditamos que todas as raparigas e Mulheres... <a href="about-us.php#about-values"
-                                class="link-card">leia mais</a>
+                            Acreditamos que todas as raparigas e Mulheres... <a href="about-us.php#about-values" class="link-card">leia mais</a>
                         </p>
 
 
@@ -164,8 +163,7 @@
         <div class="container-fluid text-center">
             <h2 class="mb-5 mt-n3" style="font-family: 'IndieFlower', cursive;">Deseja obter mais informações sobre
                 Associação Rapariga +Visão?</h2>
-            <span><a href="contact.php#contact-us" class="btn button-contact mt-n5"><i class="far fa-envelope fa-lg"
-                        id="icon-envelope"></i>
+            <span><a href="contact.php#contact-us" class="btn button-contact mt-n5"><i class="far fa-envelope fa-lg" id="icon-envelope"></i>
                     <span style="font-family: Teko, sans-serif;"> Fale connosco</span></a>
             </span>
         </div>
@@ -176,22 +174,15 @@
         <div class="container-fluid">
             <div style="font-size: 1.2em;" class="text-center">
                 <p>
-                    <a href="about-us.php">Sobre nós</a> <span class="special-character">|</span> <a class="  "
-                        href="about-us.php#about-mission">Missão da associação</a> <span
-                        class="special-character">|</span> <a class="  " href="about-us.php#about-vision">Visão da
+                    <a href="about-us.php">Sobre nós</a> <span class="special-character">|</span> <a class="  " href="about-us.php#about-mission">Missão da associação</a> <span class="special-character">|</span> <a class="  " href="about-us.php#about-vision">Visão da
                         associação</a> <span class="special-character">|</span>
                     <a href="about-us.php#about-values">Valores da associação</a>
-                    <span class="special-character">|</span> <a class="  "
-                        href="about-us.php#about-objectives">Objetivos da associação</a> <span
-                        class="special-character">|</span> <a class="  " href="donation.php">Doe para associação</a>
+                    <span class="special-character">|</span> <a class="  " href="about-us.php#about-objectives">Objetivos da associação</a> <span class="special-character">|</span> <a class="  " href="donation.php">Doe para associação</a>
                 </p>
             </div>
 
             <div class="text-center">
-                <p>Copyright 2020 &copy; - Associação Raparigas + Visão <a target="_blank"
-                        href="https://pt.wikipedia.org/wiki/Mo%C3%A7ambique">(Moçambique)</a><br /> Made with <i
-                        class="fas fa-heart"></i> by Ayrton Pereira - <a
-                        href="mailto:ayrton_pereira1996@hotmail.com">ayrton_pereira1996@hotmail.com</a></p>
+                <p>Copyright 2020 &copy; - Associação Raparigas + Visão <a target="_blank" href="https://pt.wikipedia.org/wiki/Mo%C3%A7ambique">(Moçambique)</a><br /> Made with <i class="fas fa-heart"></i> by Ayrton Pereira - <a href="mailto:ayrton_pereira1996@hotmail.com">ayrton_pereira1996@hotmail.com</a></p>
             </div>
 
         </div>
@@ -199,37 +190,37 @@
 
 
     <script>
-    const btnScrollToTop = document.querySelector("#btnScrollToTop");
+        const btnScrollToTop = document.querySelector("#btnScrollToTop");
 
 
-    function onMouseOverIconEnvelopeChange() {
-        let icon_envelope = document.querySelector("#icon-envelope");
-        if (icon_envelope.classList.contains("fa-envelope")) {
-            icon_envelope.classList.remove("fa-envelope")
-            icon_envelope.classList.add("fa-envelope-open")
+        function onMouseOverIconEnvelopeChange() {
+            let icon_envelope = document.querySelector("#icon-envelope");
+            if (icon_envelope.classList.contains("fa-envelope")) {
+                icon_envelope.classList.remove("fa-envelope")
+                icon_envelope.classList.add("fa-envelope-open")
+            }
         }
-    }
 
-    function onMouseOutIconEnvelopeReturn() {
-        let icon_envelope = document.querySelector("#icon-envelope");
-        if (!icon_envelope.classList.contains("fa-envelope")) {
-            icon_envelope.classList.remove("fa-envelope-open")
-            icon_envelope.classList.add("fa-envelope")
+        function onMouseOutIconEnvelopeReturn() {
+            let icon_envelope = document.querySelector("#icon-envelope");
+            if (!icon_envelope.classList.contains("fa-envelope")) {
+                icon_envelope.classList.remove("fa-envelope-open")
+                icon_envelope.classList.add("fa-envelope")
+            }
         }
-    }
 
 
 
 
-    window.addEventListener("scroll", scrollFunction);
+        window.addEventListener("scroll", scrollFunction);
 
-    btnScrollToTop.addEventListener("click", function() {
-        window.scrollTo({
-            left: 0,
-            top: 0,
-            behavior: "smooth"
+        btnScrollToTop.addEventListener("click", function() {
+            window.scrollTo({
+                left: 0,
+                top: 0,
+                behavior: "smooth"
+            })
         })
-    })
     </script>
 
     <script src="/_fontAwesome/js/all.js"></script>

@@ -34,6 +34,7 @@
                                 font-weight-bolder"><i class="fas fa-home"></i> Inicio</a></li>
                     <li class="nav-item mr-3"><a href="about-us.php" class="nav-link
                         font-weight-bolder">Quem somos <i class="fas fa-question"></i></a></li>
+                    <li class="nav-item mr-3"><a href="activities.html" class="nav-link font-weight-bolder">Actividades</a></li>
                     <li class="nav-item mr-3 active"><a href="gallery.php" class="nav-link
                         font-weight-bolder"><i class="far fa-images"></i> Galeria</a></li>
                     <li class="nav-item mr-3"><a href="contact.php" class="nav-link
@@ -61,7 +62,7 @@
         <div class="row">
             <div class="col ml-5 mr-2">
                 <div class="gallery pt-3 text-center">
-                   
+
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200222-WA0100.png" data-title="Exemplo imagem"><img src="/_pictures/_gallery/_small/small_IMG-20200222-WA0100.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200222-WA0099.png" data-title=""><img src="/_pictures/_gallery/_small/small_IMG-20200222-WA0099.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200222-WA0098.png" data-title=""><img src="/_pictures/_gallery/_small/small_IMG-20200222-WA0098.png" alt=""></a>
@@ -113,7 +114,7 @@
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0032.png" data-title=""><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0032.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0030.png" data-title=""><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0030.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0028.png" data-title=""><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0028.png" alt=""></a>
-                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0023.png" data-title=""><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0023.png" alt=""></a>                   
+                    <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0023.png" data-title=""><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0023.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0019.png" data-title=""><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0019.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0018.png" data-title=""><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0018.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200118-WA0013.png" data-title=""><img src="/_pictures/_gallery/_small/small_IMG-20200118-WA0013.png" alt=""></a>
@@ -128,9 +129,9 @@
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200117-WA0043.png" data-title=""><img src="/_pictures/_gallery/_small/small_IMG-20200117-WA0043.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200117-WA0042.png" data-title=""><img src="/_pictures/_gallery/_small/small_IMG-20200117-WA0042.png" alt=""></a>
                     <a data-lightbox="mygallery" href="/_pictures/_gallery/_normal/IMG-20200117-WA0038.png" data-title=""><img src="/_pictures/_gallery/_small/small_IMG-20200117-WA0038.png" alt=""></a>
-                    
-                    
-                    
+
+
+
                 </div>
             </div>
         </div>
@@ -140,7 +141,7 @@
         <div class="container-fluid">
             <div style="font-size: 1.2em;" class="text-center">
                 <p>
-                    <a class=" " href="about-us.php">Sobre nós</a> <span class="special-character">|</span> <a class=" " href="about-us.php#about-mission">Missão da associação</a> <span class="special-character">|</span> <a class=" " href="about-us.php#about-vision">Visão da associação</a>                    <span class="special-character">|</span>
+                    <a class=" " href="about-us.php">Sobre nós</a> <span class="special-character">|</span> <a class=" " href="about-us.php#about-mission">Missão da associação</a> <span class="special-character">|</span> <a class=" " href="about-us.php#about-vision">Visão da associação</a> <span class="special-character">|</span>
                     <a class=" " href="about-us.php#about-values">Valores da associação</a>
                     <span class="special-character">|</span> <a class=" " href="about-us.php#about-objectives">Objetivos da associação</a> <span class="special-character">|</span> <a class=" " href="donation.php">Doe para associação</a>
                 </p>
