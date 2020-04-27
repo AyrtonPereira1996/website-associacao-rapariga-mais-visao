@@ -56,6 +56,7 @@ nav .navbar-nav a {
 nav {
     background-color: rgba(255, 238, 140, 0.87);
     border-bottom: 1px solid rgba(179, 62, 138, 0.918);
+    width: 100%;
     /* background-color: #2b2b2bbb; */
 }
 
@@ -368,4 +369,37 @@ button#btnScrollToTop i:focus {
     font-family: Teko, sans-serif;
     color: #fff;
     letter-spacing: 10px;
+}
+
+div.card-activity {
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 5px dotted rgb(179, 62, 138);
+    ;
+}
+
+div.card-activity p {
+    font-size: 1.4em;
+}
+
+div.card-activity .card-footer {
+    background-color: #fff !important;
+    border: none;
+}
+
+a.btn-activity {
+    background-color: rgba(179, 62, 138, 0.904);
+    border-radius: 0;
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    font-size: 1.4em;
+    color: #fff;
+    letter-spacing: 5px;
+    font-family: Teko, sans-serif;
+}
+
+a.btn-activity:hover {
+    background-color: rgba(179, 62, 138, 0.774);
+    color: #FFEE8C;
 }
