@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt">
 
 <head>
     <meta charset="UTF-8">
@@ -11,14 +11,13 @@
     <link rel="stylesheet" href="/_css/style.css">
     <link rel="stylesheet" href="/_css/reset.css">
     <link rel="stylesheet" href="/_css/bootstrap.css">
+
 </head>
 
 <body>
-
     <header class="mb-5 justify-content-center">
         <nav class="navbar fixed-top navbar-expand-lg navbar-light h-auto">
             <a href="index.php" class="navbar-brand">Associação Raparigas +Visão</a>
-
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-elements">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -26,10 +25,8 @@
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item mr-3"><a href="index.php" class="nav-link
                                 font-weight-bolder"><i class="fas fa-home"></i> Inicio</a></li>
-                    <li class="nav-item mr-3"><a href="about-us.php" class="nav-link font-weight-bolder">Quem somos <i
-                                class="fas fa-question"></i></a></li>
-                    <li class="nav-item mr-3 active"><a href="activities.php" class="nav-link font-weight-bolder"><i
-                                class="fas fa-tasks"></i> Atividades/Projetos</a></li>
+                    <li class="nav-item mr-3"><a href="about-us.php" class="nav-link font-weight-bolder">Quem somos <i class="fas fa-question"></i></a></li>
+                    <li class="nav-item mr-3 active"><a href="activities.php" class="nav-link font-weight-bolder"><i class="fas fa-tasks"></i> Atividades/Projetos</a></li>
                     <li class="nav-item mr-3"><a href="gallery.php" class="nav-link
                         font-weight-bolder"><i class="far fa-images"></i> Galeria</a></li>
                     <li class="nav-item mr-3"><a href="contact.php" class="nav-link
@@ -50,8 +47,8 @@
     </div>
 
 
-    <div class="container">
-        <div class="row my-5">
+    <div class="container my-5">
+        <div class="row my-4">
             <div class="m-auto">
                 <a class="global-link " href="activities.php" style="font-size: 1.4em;">Conheça as nossas atividades!</a>
             </div>
@@ -101,6 +98,8 @@
                     nam repellat rerum sint minus illo, nisi voluptate laborum cumque consectetur sit vero asperiores! Quam voluptatem distinctio ad, optio architecto fuga tenetur odit sit ratione pariatur?
                 </p>
             </section>
+
+
         </div>
     </div>
 
@@ -126,23 +125,23 @@
     </footer>
 
     <script>
-        const btntScrollToTop = window.document.querySelector("#btnScrollToTop ");
+        window.console.log('Aqui');
+        
+        const btnScrollToTop = window.document.querySelector("#btnScrollToTop");
 
-        window.addEventListener("scroll ", scrollFunction);
+        window.addEventListener('scroll', scrollFunction);
 
-        btntScrollToTop.addEventListener("click ", function() {
+        btnScrollToTop.addEventListener('click', function() {
             window.scrollTo({
                 left: 0,
                 top: 0,
-                behavior: "smooth "
+                behavior: "smooth"
             })
         })
     </script>
-
-
-    <script src="/_fontAwesome/js/all.js "></script>
-    <script src="/_js/jquery.js "></script>
-    <script src="/_js/bootstrap.js "></script>
+    <script src="/_fontAwesome/js/all.js"></script>
+    <script src="/_js/jquery.js"></script>
+    <script src="/_js/bootstrap.js"></script>
 </body>
 
 </html>
