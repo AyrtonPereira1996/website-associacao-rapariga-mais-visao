@@ -13,7 +13,7 @@ if (isset($_POST['name']) && isset($_POST['email']) && isset($_POST['subject']) 
     $mail->SMTPAuth=true;
     $mail->SMTPSecure='tls';
     $mail->Username='associacao.raparigasmaisvisao@gmail.com';
-    $mail->Password='fati.ruih';
+    $mail->Password='fati.tani';
 
     $mail->setFrom($_POST['email'], $_POST['name']);
     $mail->addAddress('associacao.raparigasmaisvisao@gmail.com');
