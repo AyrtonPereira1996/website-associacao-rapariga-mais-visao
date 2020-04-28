@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Raparigas +Visão :: Actividades</title>
+    <title>Raparigas +Visão :: Atividades</title>
 
     <script src="/_js/script.js"></script>
     <link rel="stylesheet" href="/_css/style.css">
@@ -31,8 +31,8 @@
                                 font-weight-bolder"><i class="fas fa-home"></i> Inicio</a></li>
                     <li class="nav-item mr-3"><a href="about-us.php" class="nav-link font-weight-bolder">Quem somos <i
                                 class="fas fa-question"></i></a></li>
-                    <li class="nav-item mr-3 active"><a href="activities.html" class="nav-link font-weight-bolder"><i
-                                class="fas fa-tasks"></i> Actividades</a></li>
+                    <li class="nav-item mr-3 active"><a href="activities.php" class="nav-link font-weight-bolder"><i
+                                class="fas fa-tasks"></i> Atividades</a></li>
                     <li class="nav-item mr-3"><a href="gallery.php" class="nav-link
                         font-weight-bolder"><i class="far fa-images"></i> Galeria</a></li>
                     <li class="nav-item mr-3"><a href="contact.php" class="nav-link
@@ -57,7 +57,7 @@
     <div class="container-fluid">
         <div class="row my-5">
             <div class="m-auto">
-                <a class="" href="http://" style="font-size: 1.4em;">Conheça os nossos projetos !</a>
+                <a class="global-link " href="http://" style="font-size: 1.4em;">Conheça os nossos projetos!</a>
             </div>
         </div>
 
@@ -71,8 +71,8 @@
                             </div>
                             <div class="col-md-9 ml-0">
                                 <div class="card-body ">
-                                    <h4 class="card-title">Titulo da actividade</h4>
-                                    <p class="card-text ">Algum texto introdutorio sobre a actividade</p>
+                                    <h4 class="card-title">Titulo da atividade</h4>
+                                    <p class="card-text ">Algum texto introdutorio sobre a atividade</p>
 
 
                                     <p class="card-text ">
@@ -95,8 +95,8 @@
                             </div>
                             <div class="col-md-9 ml-0">
                                 <div class="card-body ">
-                                    <h4 class="card-title">Titulo da actividade</h4>
-                                    <p class="card-text ">Algum texto introdutorio sobre a actividade</p>
+                                    <h4 class="card-title">Titulo da atividade</h4>
+                                    <p class="card-text ">Algum texto introdutorio sobre a atividade</p>
                                     <p class="card-text ">
                                         <a href="http://" class="btn btn-activity text-decoration-none shadow-sm">Saiba mais</a>
                                         <small class="text-muted ">Submetido em: [Data da
@@ -115,8 +115,8 @@
                             </div>
                             <div class="col-md-9 ml-0">
                                 <div class="card-body ">
-                                    <h4 class="card-title">Titulo da actividade</h4>
-                                    <p class="card-text ">Algum texto introdutorio sobre a actividade</p>
+                                    <h4 class="card-title">Titulo da atividade</h4>
+                                    <p class="card-text ">Algum texto introdutorio sobre a atividade</p>
                                     <p class="card-text ">
                                         <a href="http://" class="btn btn-activity text-decoration-none shadow-sm">Saiba mais</a>
                                         <small class="text-muted ">Submetido em: [Data da
