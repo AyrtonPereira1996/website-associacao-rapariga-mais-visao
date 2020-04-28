@@ -32,7 +32,7 @@
                     <li class="nav-item mr-3"><a href="about-us.php" class="nav-link font-weight-bolder">Quem somos <i
                                 class="fas fa-question"></i></a></li>
                     <li class="nav-item mr-3 active"><a href="activities.php" class="nav-link font-weight-bolder"><i
-                                class="fas fa-tasks"></i> Atividades</a></li>
+                                class="fas fa-tasks"></i> Atividades/Projetos</a></li>
                     <li class="nav-item mr-3"><a href="gallery.php" class="nav-link
                         font-weight-bolder"><i class="far fa-images"></i> Galeria</a></li>
                     <li class="nav-item mr-3"><a href="contact.php" class="nav-link
@@ -57,7 +57,7 @@
     <div class="container-fluid">
         <div class="row my-5">
             <div class="m-auto">
-                <a class="global-link " href="http://" style="font-size: 1.4em;">Conheça os nossos projetos!</a>
+                <a class="global-link " href="projects.html" style="font-size: 1.4em;">Conheça os nossos projetos!</a>
             </div>
         </div>
 

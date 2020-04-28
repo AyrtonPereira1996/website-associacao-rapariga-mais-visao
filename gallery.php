@@ -35,7 +35,7 @@
                     <li class="nav-item mr-3"><a href="about-us.php" class="nav-link
                         font-weight-bolder">Quem somos <i class="fas fa-question"></i></a></li>
                     <li class="nav-item mr-3"><a href="activities.php" class="nav-link font-weight-bolder"><i
-                                class="fas fa-tasks"></i> Actividades</a></li>
+                                class="fas fa-tasks"></i> Atividades/Projetos</a></li>
                     <li class="nav-item mr-3 active"><a href="gallery.php" class="nav-link
                         font-weight-bolder"><i class="far fa-images"></i> Galeria</a></li>
                     <li class="nav-item mr-3"><a href="contact.php" class="nav-link
