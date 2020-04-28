@@ -63,7 +63,7 @@
             <div class="row">
                 <div class="col">
 
-                    <section class="mb-5">
+                    <section class="mb-4">
                         <p class="p-4 font-weight-bold shadow-sm"
                             style="border: 5px dotted rgba(179, 62, 138); border-radius: 10px;">A AR+V
                             é
@@ -77,16 +77,16 @@
                 </div>
 
             </div>
-            <div class="alert alert-success alert-dismissible fade show" role="alert" id="bsalert-success">
-                <p><i class="fas fa-check fa-3x"></i> A mensagem foi enviada com sucesso. Agradecemos por entrar em
+            <div class="alert alert-success alert-dismissible fade show mt-n2" role="alert" id="bsalert-success">
+                <p><i class="fas fa-check fa-2x"></i> A mensagem foi enviada com sucesso. Agradecemos por entrar em
                     contacto connosco!</p>
                 <button type="button" class="close" data-dismiss="alert" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                 </button>
             </div>
 
-            <div class="alert alert-danger alert-dismissible fade show" role="alert" id="bsalert-fail">
-                <p><i class="fas fa-times fa-3x"></i> Opps! Não foi possível enviar a sua mensagem. Por favor verifique
+            <div class="alert alert-danger alert-dismissible fade show mt-0" role="alert" id="bsalert-fail">
+                <p><i class="fas fa-times fa-2x"></i> Opps! Não foi possível enviar a sua mensagem. Por favor verifique
                     a sua conexão de internet e tente de novo...</p>
                 <button type="button" class="close" data-dismiss="alert" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
