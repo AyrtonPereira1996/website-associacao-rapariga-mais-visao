@@ -31,7 +31,7 @@
                     <li class="nav-item mr-3"><a href="index.php" class="nav-link
                                 font-weight-bolder"><i class="fas fa-home"></i> Inicio</a></li>
                     <li class="nav-item mr-3"><a href="about-us.php" class="nav-link font-weight-bolder">Quem somos <i class="fas fa-question"></i></a></li>
-                    <li class="nav-item mr-3"><a href="activities.html" class="nav-link font-weight-bolder"><i
+                    <li class="nav-item mr-3"><a href="activities.php" class="nav-link font-weight-bolder"><i
                                 class="fas fa-tasks"></i> Actividades</a></li>
                     <li class="nav-item mr-3"><a href="gallery.php" class="nav-link
                         font-weight-bolder"><i class="far fa-images"></i> Galeria</a></li>
@@ -60,11 +60,11 @@
                 Se deseja ajudar e contribuir para as causas da AR+V pode o fazer através da doação de:<br/> * Material escolar (lápis, canetas, cadernos etc...)<br/> * Artigos (camisetes, calças, blusas etc...)<br/> * Sementes de cultivo<br/> Também
                 poderá realizar doações monetárias através dos seguintes serviços bancários disponiveis em Moçambique (Banco Millenium Bim):
             </p>
-            <div class="">
+            <div>
                 <a href="http://" target="_blank" rel="noopener noreferrer"><img src="/images/millenniumbim.png" alt="Banco millennium bim" class="mr-2"></a> &nbsp;&nbsp;
 
             </div>
-            <p class="mt-2">Caso queira obter mais informações <a href="contact.php#contact-us">fale connosco</a> ou contacte-nos através do número <a href="tel:+258840183687">+258 840183687</a>.</p>
+            <p class="mt-2">Caso queira obter mais informações <a href="contact.php#contact-us" class="global-link">fale connosco</a> ou contacte-nos através do número <a href="tel:+258840183687" class="global-link">+258 840183687</a>.</p>
 
 
 

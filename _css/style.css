@@ -31,22 +31,15 @@ section#section-values li {
     list-style: none;
 }
 
-.container p {
+.container p,
+p.card-text {
     font-size: 1.4em;
+    font-family: Roboto, sans-serif;
 }
 
 .container li {
     font-size: 1.4em;
 }
-
-.container a {
-    text-decoration: underline;
-}
-
-
-/* p {
-    font-size: 1.6em;
-} */
 
 nav .navbar-nav a {
     font-size: 1.2em;
@@ -404,4 +397,18 @@ a.btn-activity {
 a.btn-activity:hover {
     background-color: rgba(179, 62, 138, 0.774);
     color: #FFEE8C;
+}
+
+a.global-link {
+    /* font-size: 1.4em !important; */
+    font-weight: bold;
+    color: rgba(179, 62, 138, 0.774);
+    font-family: Roboto, sans-serif;
+}
+
+a.global-link:hover {
+    /* color: #FFEE8C; */
+    color: rgba(179, 62, 138, 0.575);
+    text-decoration: underline;
+    font-weight: bold;
 }

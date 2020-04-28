@@ -29,7 +29,7 @@
                                 font-weight-bolder"><i class="fas fa-home"></i> Inicio</a></li>
                     <li class="nav-item mr-3"><a href="#" class="nav-link font-weight-bolder">Quem somos <i
                                 class="fas fa-question"></i></a></li>
-                                <li class="nav-item mr-3"><a href="activities.html" class="nav-link font-weight-bolder"><i
+                                <li class="nav-item mr-3"><a href="activities.php" class="nav-link font-weight-bolder"><i
                                 class="fas fa-tasks"></i> Actividades</a></li>
                                 <li class="nav-item mr-3"><a href="gallery.php" class="nav-link
                         font-weight-bolder"><i class="far fa-images"></i> Galeria</a></li>
@@ -144,13 +144,13 @@
 
                         <p>
                             <span class="font-weight-bold">E-mail: </span>
-                            <a href="mailto:fafaabelmatosm@gmail.com">fafaabelmatosm@gmail.com</a><br />
-                            <span class="font-weight-bold">Tel.:</span> <a href="tel:+258840183687">+258
+                            <a href="mailto:fafaabelmatosm@gmail.com" class="global-link ">fafaabelmatosm@gmail.com</a><br />
+                            <span class="font-weight-bold">Tel.:</span> <a class="global-link " href="tel:+258840183687">+258
                                 840183687</a><br />
 
                             <span class="font-weight-bold">Localização: </span><a target="_blank"
-                                href="https://pt.wikipedia.org/wiki/Quelimane">Quelimane </a> - <a target="_blank"
-                                href="https://pt.wikipedia.org/wiki/Mo%C3%A7ambique">Moçambique</a>
+                                href="https://pt.wikipedia.org/wiki/Quelimane" class="global-link ">Quelimane </a> - <a target="_blank"
+                                href="https://pt.wikipedia.org/wiki/Mo%C3%A7ambique" class="global-link ">Moçambique</a>
                             <br />
 
 
