@@ -24,7 +24,7 @@
 }
 
 body {
-    background-color: rgba(252, 252, 252, 0.822) !important;
+    /* background-color: rgba(252, 252, 252, 0.822) !important; */
 }
 
 section#section-values li {
@@ -32,7 +32,8 @@ section#section-values li {
 }
 
 .container p,
-p.card-text {
+p.card-text,
+.container-fluid p {
     font-size: 1.4em;
     font-family: Roboto, sans-serif;
 }
@@ -411,4 +412,15 @@ a.global-link:hover {
     color: rgba(179, 62, 138, 0.575);
     text-decoration: underline;
     font-weight: bold;
+}
+
+h2.projects-titles {
+    font-family: Teko, sans-serif;
+    letter-spacing: 10px;
+    font-size: 3.5em;
+    font-weight: bold;
+}
+
+section.projects-sections {
+    border-bottom: 5px dotted rgb(179, 62, 138);
 }
