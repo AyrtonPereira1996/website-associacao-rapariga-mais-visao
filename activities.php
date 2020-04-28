@@ -45,7 +45,7 @@
     </header>
 
     <button id="btnScrollToTop">
-        <i class="fas fa-arrow-up fa-2x"></i>
+            <i class="fas fa-arrow-up fa-2x"></i>
     </button>
 
     <div class="container-fluid mt-n5 p-5 title-page-area">
@@ -54,14 +54,14 @@
 
     </div>
 
-    <div class="container-fluid">
-        <div class="row my-5">
+    <div class="container my-5">
+        <div class="row my-4">
             <div class="m-auto">
-                <a class="global-link " href="projects.html" style="font-size: 1.4em;">Conheça os nossos projetos!</a>
+                <a class="global-link " href="projects.php" style="font-size: 1.4em;">Conheça os nossos projetos!</a>
             </div>
         </div>
 
-        <section class="my-5">
+        <section class="">
             <div class="row">
                 <div class="col-12">
                     <div class="card card-activity mb-4">
@@ -156,17 +156,20 @@
     </footer>
 
     <script>
-        const btntScrollToTop = window.document.querySelector("#btnScrollToTop ");
+         window.console.log('Aqui');
 
-        window.addEventListener("scroll ", scrollFunction);
-
-        btntScrollToTop.addEventListener("click ", function() {
+         const btnScrollToTop = window.document.querySelector("#btnScrollToTop");
+        
+        window.addEventListener('scroll', scrollFunction);
+       
+        btnScrollToTop.addEventListener('click', function() {
             window.scrollTo({
                 left: 0,
                 top: 0,
-                behavior: "smooth "
+                behavior: "smooth"
             })
         })
+
     </script>
 
 
