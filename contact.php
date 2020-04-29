@@ -227,6 +227,7 @@
                 success: function(response) {
                     if (response.status == 'success') {
                         $('#bsalert-success').fadeIn();
+                        window.console.log("AQUI");
                         window.document.querySelector("#txtname").value = "";
                         window.document.querySelector("#txtemail").value = "";
                         window.document.querySelector("#txtsubject").value = "";
