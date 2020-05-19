@@ -22,7 +22,7 @@
 
 <body>
     <header class="mb-5">
-        <nav class="navbar fixed-top navbar-expand-lg navbar-dark h-auto">
+        <nav class="navbar fixed-top navbar-expand-lg navbar-dark h-auto justify-content-center">
             <a href="index.php" class="navbar-brand">Associação Raparigas +Visão</a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-elements">
