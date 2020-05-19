@@ -16,7 +16,7 @@
 
 <body>
     <header class="mb-5 justify-content-center">
-        <nav class="navbar fixed-top navbar-expand-lg navbar-light h-auto">
+        <nav class="navbar fixed-top navbar-expand-lg navbar-dark h-auto">
             <a href="index.php" class="navbar-brand">Associação Raparigas +Visão</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-elements">
                 <span class="navbar-toggler-icon"></span>
@@ -24,15 +24,15 @@
             <div id="navbar-elements" class="collapse navbar-collapse">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item mr-3"><a href="index.php" class="nav-link
-                                font-weight-bolder"><i class="fas fa-home"></i> Inicio</a></li>
-                    <li class="nav-item mr-3"><a href="about-us.php" class="nav-link font-weight-bolder">Quem somos <i class="fas fa-question"></i></a></li>
-                    <li class="nav-item mr-3 active"><a href="activities.php" class="nav-link font-weight-bolder"><i class="fas fa-tasks"></i> Atividades/Projetos</a></li>
+                                "><i class="fas fa-home"></i> Inicio</a></li>
+                    <li class="nav-item mr-3"><a href="about-us.php" class="nav-link ">Quem somos <i class="fas fa-question"></i></a></li>
+                    <li class="nav-item mr-3 active"><a href="activities.php" class="nav-link "><i class="fas fa-tasks"></i> Atividades/Projetos</a></li>
                     <li class="nav-item mr-3"><a href="gallery.php" class="nav-link
-                        font-weight-bolder"><i class="far fa-images"></i> Galeria</a></li>
+                        "><i class="far fa-images"></i> Galeria</a></li>
                     <li class="nav-item mr-3"><a href="contact.php" class="nav-link
-                                font-weight-bolder"><i class="fas fa-at"></i> Contato</a></li>
+                                "><i class="fas fa-at"></i> Contato</a></li>
                     <li class="nav-item mr-3"><a href="donation.php" class="nav-link
-                                font-weight-bolder"><i class="fas fa-hand-holding-heart"></i> Doação</a></li>
+                                "><i class="fas fa-hand-holding-heart"></i> Doação</a></li>
                 </ul>
             </div>
         </nav>

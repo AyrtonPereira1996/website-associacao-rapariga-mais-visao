@@ -42,13 +42,24 @@ p.card-text,
     font-size: 1.4em;
 }
 
-nav .navbar-nav a {
+nav #navbar-elements a {
     font-size: 1.2em;
-    color: rgb(17, 17, 17);
+    color: rgba(255, 255, 255, 0.856);
+ 
+}
+
+.navbar-brand{
+    color: rgba(255, 255, 255, 0.856);
+}
+
+nav #navbar-elements a:hover {
+    color: rgba(179, 62, 138, 0.918);
+   
 }
 
 nav {
-    background-color: rgba(255, 238, 140, 0.87);
+    
+    background-color: rgba(43, 43, 43, 0.849) !important;
     border-bottom: 1px solid rgba(179, 62, 138, 0.918);
     width: 100%;
     /* background-color: #2b2b2bbb; */
@@ -57,11 +68,6 @@ nav {
 .active a {
     color: rgba(179, 62, 138, 0.918) !important;
     border-bottom: 1px solid rgba(179, 62, 138, 0.918);
-}
-
-nav #navbar-elements a:hover {
-    color: rgba(179, 62, 138, 0.918);
-    transition-duration: 0.2s;
 }
 
 .card-title {
@@ -202,19 +208,21 @@ div .dropdown-item:hover {
     font-size: 1.6em;
     color: #fff;
     letter-spacing: 5px;
+    transition: all 0.2s linear;
+    
 }
 
 .jumbotron .button-contact:hover {
     background-color: rgba(179, 62, 138, 0.521);
     box-shadow: 2px 2px 20px rgba(124, 124, 124, 0.582);
-    text-decoration: underline;
+    text-decoration: underline; 
     color: rgb(255, 255, 255);
-    transition-duration: 0.2s;
     transform: scale(1.02);
+    transition: all 0.1s linear;
 }
 
 footer .container-fluid {
-    background-color: rgb(43, 43, 43);
+    background-color: #343a40;
     color: #fff;
     margin-bottom: 0;
     padding: 10px;
