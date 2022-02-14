@@ -12,11 +12,11 @@ if (isset($_POST['name']) && isset($_POST['email']) && isset($_POST['subject']) 
     $mail->Port= 587;
     $mail->SMTPAuth=true;
     $mail->SMTPSecure='tls';
-    $mail->Username='associacao.raparigasmaisvisao@gmail.com';
-    $mail->Password='fati.tani';
+    $mail->Username='ayrton.pereira1996@gmail.com';
+    $mail->Password='Xiluva$1996';
 
     $mail->setFrom($_POST['email'], $_POST['name']);
-    $mail->addAddress('associacao.raparigasmaisvisao@gmail.com');
+    $mail->addAddress('ayrton.pereira1996@gmail.com');
     $mail->addReplyTo($_POST['email']);
 
 

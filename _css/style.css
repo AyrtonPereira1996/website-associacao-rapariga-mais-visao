@@ -1,103 +1,100 @@
 @font-face {
-    font-family: Roboto;
-    src: url(../_fonts/Roboto/Roboto-Regular.ttf);
+  font-family: Roboto;
+  src: url(../_fonts/Roboto/Roboto-Regular.ttf);
 }
 
 @font-face {
-    font-family: Teko;
-    src: url(../_fonts/Teko/Teko-Regular.ttf);
+  font-family: Teko;
+  src: url(../_fonts/Teko/Teko-Regular.ttf);
 }
 
 @font-face {
-    font-family: AmaticSC;
-    src: url(../_fonts/Amatic_SC/AmaticSC-Regular.ttf);
+  font-family: AmaticSC;
+  src: url(../_fonts/Amatic_SC/AmaticSC-Regular.ttf);
 }
 
 @font-face {
-    font-family: GloriaHallelujah;
-    src: url(../_fonts/Gloria_Hallelujah/GloriaHallelujah-Regular.ttf);
+  font-family: GloriaHallelujah;
+  src: url(../_fonts/Gloria_Hallelujah/GloriaHallelujah-Regular.ttf);
 }
 
 @font-face {
-    font-family: IndieFlower;
-    src: url(../_fonts/Indie_Flower/IndieFlower-Regular.ttf);
+  font-family: IndieFlower;
+  src: url(../_fonts/Indie_Flower/IndieFlower-Regular.ttf);
 }
 
 body {
-    /* background-color: rgba(252, 252, 252, 0.822) !important; */
+  /* background-color: rgba(252, 252, 252, 0.822) !important; */
 }
 
 section#section-values li {
-    list-style: none;
+  list-style: none;
 }
 
 .container p,
 p.card-text,
 .container-fluid p {
-    font-size: 1.4em;
-    font-family: Roboto, sans-serif;
+  font-size: 1.4em;
+  font-family: Roboto, sans-serif;
 }
 
 .container li {
-    font-size: 1.4em;
+  font-size: 1.4em;
 }
 
 nav #navbar-elements a {
-    font-size: 1.2em;
-    color: rgba(255, 255, 255, 0.856);
- 
+  font-size: 1.2em;
+  color: rgba(255, 255, 255, 0.856);
 }
 
-.navbar-brand{
-    color: rgba(255, 255, 255, 0.856);
+.navbar-brand {
+  color: rgba(255, 255, 255, 0.856);
 }
 
 nav #navbar-elements a:hover {
-    color: rgba(179, 62, 138, 0.918);
-   
+  color: rgba(179, 62, 138, 0.918);
 }
 
 nav {
-    
-    background-color: rgba(43, 43, 43, 0.849) !important;
-    border-bottom: 1px solid rgba(179, 62, 138, 0.918);
-    width: 100%;
-    /* background-color: #2b2b2bbb; */
+  background-color: rgba(43, 43, 43, 0.849) !important;
+  border-bottom: 1px solid rgba(179, 62, 138, 0.918);
+  width: 100%;
+  /* background-color: #2b2b2bbb; */
 }
 
 .active a {
-    color: rgba(179, 62, 138, 0.918) !important;
-    border-bottom: 1px solid rgba(179, 62, 138, 0.918);
+  color: rgba(179, 62, 138, 0.918) !important;
+  border-bottom: 1px solid rgba(179, 62, 138, 0.918);
 }
 
 .card-title {
-    font-family: Teko, sans-serif;
-    font-size: 3.5em;
-    letter-spacing: 10px;
+  font-family: Teko, sans-serif;
+  font-size: 3.5em;
+  letter-spacing: 10px;
 }
 
 .card a {
-    text-decoration: underline;
-    /* text-transform: uppercase; */
-    font-weight: bold;
-    color: rgb(22, 22, 22);
-    font-family: sans-serif;
+  text-decoration: underline;
+  /* text-transform: uppercase; */
+  font-weight: bold;
+  color: rgb(22, 22, 22);
+  font-family: sans-serif;
 }
 
 a.link-card {
-    font-family: Teko, sans-serif;
-    font-size: 1.25em;
-    font-weight: normal;
-    color: rgba(255, 255, 255, 0.856);
-    letter-spacing: 2px;
+  font-family: Teko, sans-serif;
+  font-size: 1.25em;
+  font-weight: normal;
+  color: rgba(255, 255, 255, 0.856);
+  letter-spacing: 2px;
 }
 
 a.link-card:hover {
-    color: #FFEE8C;
+  color: #ffee8c;
 }
 
 .special-question {
-    font-family: sans-serif;
+  font-family: sans-serif;
 }
 
 #contact-us,
@@ -105,330 +102,338 @@ a.link-card:hover {
 #about-mission,
 #about-vision,
 #about-values {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    left: 0;
-    margin-top: -30px;
-    /* esse valor varia de acordo com a altura do seu Header, se ele tiver 200px de altura coloque aqui -220px por exemplo */
-    background-color: transparent;
-    z-index: -1;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  left: 0;
+  margin-top: -30px;
+  /* esse valor varia de acordo com a altura do seu Header, se ele tiver 200px de altura coloque aqui -220px por exemplo */
+  background-color: transparent;
+  z-index: -1;
 }
 
 #contact-us {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    left: 0;
-    margin-top: -62px;
-    /* esse valor varia de acordo com a altura do seu Header, se ele tiver 200px de altura coloque aqui -220px por exemplo */
-    background-color: transparent;
-    z-index: -1;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  left: 0;
+  margin-top: -62px;
+  /* esse valor varia de acordo com a altura do seu Header, se ele tiver 200px de altura coloque aqui -220px por exemplo */
+  background-color: transparent;
+  z-index: -1;
 }
 
 div .dropdown-menu {
-    /* background-color: rgba(255, 238, 140, 0.733); */
-    border: 2px solid;
-    border-top: none;
-    border-bottom-color: rgba(255, 238, 140, 0.733);
-    border-left-color: rgba(255, 238, 140, 0.733);
-    border-right-color: rgba(255, 238, 140, 0.733);
-    border-radius: 0;
-    padding: 0;
+  /* background-color: rgba(255, 238, 140, 0.733); */
+  border: 2px solid;
+  border-top: none;
+  border-bottom-color: rgba(255, 238, 140, 0.733);
+  border-left-color: rgba(255, 238, 140, 0.733);
+  border-right-color: rgba(255, 238, 140, 0.733);
+  border-radius: 0;
+  padding: 0;
 }
 
 div .dropdown-item:hover {
-    background-color: rgba(255, 238, 140, 0.733);
+  background-color: rgba(255, 238, 140, 0.733);
 }
 
 .dropdown-item.active,
 .dropdown-item:active {
-    background: #000;
-    color: #fff
+  background: #000;
+  color: #fff;
 }
 
 ::-webkit-scrollbar-track {
-    background-color: #F4F4F4;
+  background-color: #f4f4f4;
 }
 
 ::-webkit-scrollbar {
-    width: 15px;
-    background: #F4F4F4;
+  width: 15px;
+  background: #f4f4f4;
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #dad7d7;
+  background: #dad7d7;
 }
 
 .form-group .field {
-    border: 1px solid rgba(179, 62, 138);
-    border-left: 4px solid rgb(179, 62, 138);
-    border-radius: 5px;
-    height: 3.0rem;
+  border: 1px solid rgba(179, 62, 138);
+  border-left: 4px solid rgb(179, 62, 138);
+  border-radius: 5px;
+  height: 3rem;
 }
 
 .form-group .field-area {
-    border: 1px solid rgb(179, 62, 138);
-    border-left: 4px solid rgb(179, 62, 138);
-    border-radius: 5px;
+  border: 1px solid rgb(179, 62, 138);
+  border-left: 4px solid rgb(179, 62, 138);
+  border-radius: 5px;
 }
 
 .form-group .placeholder::-webkit-input-placeholder {
-    color: rgba(179, 62, 138);
-    font-weight: bold;
+  color: rgba(179, 62, 138);
+  font-weight: bold;
 }
 
 .form-group .placeholder:-moz-placeholder {
-    color: rgba(179, 62, 138);
-    font-weight: bold;
+  color: rgba(179, 62, 138);
+  font-weight: bold;
 }
 
 .form-group .placeholder::-moz-placeholder {
-    color: rgba(179, 62, 138);
-    font-weight: bold;
+  color: rgba(179, 62, 138);
+  font-weight: bold;
 }
 
 .form-group .placeholder:-ms-input-placeholder {
-    color: rgba(179, 62, 138);
-    font-weight: bold;
+  color: rgba(179, 62, 138);
+  font-weight: bold;
 }
 
 .form-group .button-form {
-    background-color: rgba(71, 174, 179, 0.719);
-    border-color: none;
-    border-radius: 5px;
+  background-color: rgba(71, 174, 179, 0.719);
+  border-color: none;
+  border-radius: 5px;
 }
 
 .jumbotron .button-contact {
-    background-color: rgba(179, 62, 138, 0.719);
-    border-radius: 0;
-    border-bottom-right-radius: 4px;
-    border-bottom-left-radius: 4px;
-    box-shadow: 2px 2px 10px rgba(124, 124, 124, 0.582);
-    font-size: 1.6em;
-    color: #fff;
-    letter-spacing: 5px;
-    transition: all 0.2s linear;
-    
+  background-color: rgba(179, 62, 138, 0.719);
+  border-radius: 0;
+  border-bottom-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+  box-shadow: 2px 2px 10px rgba(124, 124, 124, 0.582);
+  font-size: 1.6em;
+  color: #fff;
+  letter-spacing: 5px;
+  transition: all 0.2s linear;
 }
 
 .jumbotron .button-contact:hover {
-    background-color: rgba(179, 62, 138, 0.521);
-    box-shadow: 2px 2px 20px rgba(124, 124, 124, 0.582);
-    text-decoration: underline; 
-    color: rgb(255, 255, 255);
-    transform: scale(1.02);
-    transition: all 0.1s linear;
+  background-color: rgba(179, 62, 138, 0.521);
+  box-shadow: 2px 2px 20px rgba(124, 124, 124, 0.582);
+  text-decoration: underline;
+  color: rgb(255, 255, 255);
+  transform: scale(1.02);
+  transition: all 0.1s linear;
 }
 
 footer .container-fluid {
-    background-color: #343a40;
-    color: #fff;
-    margin-bottom: 0;
-    padding: 10px;
-    font-size: 0.7em;
+  background-color: #343a40;
+  color: #fff;
+  margin-bottom: 0;
+  padding: 10px;
+  font-size: 0.7em;
 }
 
 footer a {
-    color: rgba(245, 239, 243, 0.918) !important;
-    text-decoration: underline;
+  color: rgba(245, 239, 243, 0.918) !important;
+  text-decoration: underline;
 }
 
 footer a:hover {
-    color: rgba(255, 114, 206, 0.918) !important;
+  color: rgba(255, 114, 206, 0.918) !important;
 }
 
 footer span.special-character {
-    color: rgb(255, 238, 140);
+  color: rgb(255, 238, 140);
 }
 
 div.gallery {
-    border-top: 5px dotted rgb(179, 62, 138);
+  border-top: 5px dotted rgb(179, 62, 138);
 }
 
 div.gallery img {
-    width: 250px;
-    padding: 8px;
-    filter: grayscale(60%);
+  width: 250px;
+  padding: 8px;
+  filter: grayscale(60%);
 }
 
 div.gallery img:hover {
-    filter: grayscale(0%);
-    transform: scale(1.1);
+  filter: grayscale(0%);
+  transform: scale(1.1);
 }
 
 button#btnScrollToTop {
-    display: none;
-    position: fixed;
-    right: 1.0em;
-    bottom: 1.0em;
-    width: 5.0em;
-    height: 5.0em;
-    border-radius: 50%;
-    outline: none;
-    border: none;
-    cursor: pointer;
-    color: #fff;
-    box-shadow: 0 0 25px rgba(0, 0, 0, 0.20);
-    background-color: rgba(179, 62, 138, 0.719);
-    z-index: 1;
+  display: none;
+  position: fixed;
+  right: 1em;
+  bottom: 1em;
+  width: 5em;
+  height: 5em;
+  border-radius: 50%;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  color: #fff;
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
+  background-color: rgba(179, 62, 138, 0.719);
+  z-index: 1;
 }
 
 button#btnScrollToTop:hover {
-    background-color: rgba(179, 62, 138, 0.637);
-    padding-bottom: 8px;
-    margin-bottom: 5px;
+  background-color: rgba(179, 62, 138, 0.637);
+  padding-bottom: 8px;
+  margin-bottom: 5px;
 }
 
 button#btnScrollToTop:active {
-    background-color: rgba(179, 62, 138, 0.719);
+  background-color: rgba(179, 62, 138, 0.719);
 }
 
 button#btnScrollToTop i:focus {
-    background-color: rgba(179, 62, 138, 0.719);
+  background-color: rgba(179, 62, 138, 0.719);
 }
 
 .btnEntrance {
-    animation-duration: 0.5s;
-    animation-fill-mode: both;
-    animation-name: btnEntrance;
+  animation-duration: 0.5s;
+  animation-fill-mode: both;
+  animation-name: btnEntrance;
 }
 
 .btnExit {
-    animation-duration: 0.25s;
-    animation-fill-mode: both;
-    animation-name: btnExit;
+  animation-duration: 0.25s;
+  animation-fill-mode: both;
+  animation-name: btnExit;
 }
 
 @keyframes btnEntrance {
-    from {
-        opacity: 0;
-        transform: scale3d(0.3, 0.3, 0.3);
-    }
-    to {
-        opacity: 1;
-    }
+  from {
+    opacity: 0;
+    transform: scale3d(0.3, 0.3, 0.3);
+  }
+  to {
+    opacity: 1;
+  }
 }
 
 @keyframes btnExit {
-    form {
-        opacity: 1;
-    }
-    to {
-        opacity: 0;
-        transform: scale3d(0.3, 0.3, 0.3);
-    }
+  form {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+    transform: scale3d(0.3, 0.3, 0.3);
+  }
 }
 
 #overlay {
-    position: fixed;
-    top: 0;
-    z-index: 100;
-    width: 100%;
-    height: 100%;
-    display: none;
-    background: rgba(0, 0, 0, 0.6);
+  position: fixed;
+  top: 0;
+  z-index: 100;
+  width: 100%;
+  height: 100%;
+  display: none;
+  background: rgba(0, 0, 0, 0.6);
 }
 
 .cv-spinner {
-    height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .spinner {
-    width: 40px;
-    height: 40px;
-    border: 4px #ddd solid;
-    border-top: 4px #2e93e6 solid;
-    border-radius: 50%;
-    animation: sp-anime 0.8s infinite linear;
+  width: 40px;
+  height: 40px;
+  border: 4px #ddd solid;
+  border-top: 4px #2e93e6 solid;
+  border-radius: 50%;
+  animation: sp-anime 0.8s infinite linear;
+  -webkit-border-radius:;
+  -moz-border-radius:;
+  -ms-border-radius:;
+  -o-border-radius:;
+  -webkit-animation: sp-anime 0.8s infinite linear;
 }
 
 @keyframes sp-anime {
-    100% {
-        transform: rotate(360deg);
-    }
+  100% {
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+}
 }
 
 .is-hide {
-    display: none;
+  display: none;
 }
 
 .alert {
-    display: none;
+  display: none;
 }
 
 .title-page-area {
-    background-color: rgba(71, 174, 179, 0.719);
-    height: 15.0em;
+  background-color: rgba(71, 174, 179, 0.719);
+  height: 15em;
 }
 
 .title-page-area h1 {
-    font-size: 4em;
-    margin-top: 3.5rem;
-    font-family: Teko, sans-serif;
-    color: #fff;
-    letter-spacing: 10px;
+  font-size: 4em;
+  margin-top: 3.5rem;
+  font-family: Teko, sans-serif;
+  color: #fff;
+  letter-spacing: 10px;
 }
 
 div.card-activity {
-    border-top: none;
-    border-right: none;
-    border-left: none;
-    border-bottom: 5px dotted rgb(179, 62, 138);
-    padding: 5px;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  border-bottom: 5px dotted rgb(179, 62, 138);
+  padding: 5px;
 }
 
 div.card-activity p {
-    font-size: 1.4em;
+  font-size: 1.4em;
 }
 
 div.card-activity .card-footer {
-    background-color: #fff !important;
-    border: none;
+  background-color: #fff !important;
+  border: none;
 }
 
 a.btn-activity {
-    background-color: rgba(179, 62, 138, 0.904);
-    border-radius: 0;
-    border-bottom-right-radius: 4px;
-    border-bottom-left-radius: 4px;
-    border-top-left-radius: 1px;
-    border-top-right-radius: 1px;
-    font-size: 1.4em;
-    color: #fff;
-    letter-spacing: 5px;
-    font-family: Teko, sans-serif;
+  background-color: rgba(179, 62, 138, 0.904);
+  border-radius: 0;
+  border-bottom-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+  border-top-left-radius: 1px;
+  border-top-right-radius: 1px;
+  font-size: 1.4em;
+  color: #fff;
+  letter-spacing: 5px;
+  font-family: Teko, sans-serif;
 }
 
 a.btn-activity:hover {
-    background-color: rgba(179, 62, 138, 0.774);
-    color: #FFEE8C;
+  background-color: rgba(179, 62, 138, 0.774);
+  color: #ffee8c;
 }
 
 a.global-link {
-    /* font-size: 1.4em !important; */
-    font-weight: bold;
-    color: rgba(179, 62, 138, 0.774);
-    font-family: Roboto, sans-serif;
+  /* font-size: 1.4em !important; */
+  font-weight: bold;
+  color: rgba(179, 62, 138, 0.774);
+  font-family: Roboto, sans-serif;
 }
 
 a.global-link:hover {
-    /* color: #FFEE8C; */
-    color: rgba(179, 62, 138, 0.575);
-    text-decoration: underline;
-    font-weight: bold;
+  /* color: #FFEE8C; */
+  color: rgba(179, 62, 138, 0.575);
+  text-decoration: underline;
+  font-weight: bold;
 }
 
 h2.projects-titles {
-    font-family: Teko, sans-serif;
-    letter-spacing: 10px;
-    font-size: 3.5em;
-    font-weight: bold;
+  font-family: Teko, sans-serif;
+  letter-spacing: 10px;
+  font-size: 3.5em;
+  font-weight: bold;
 }
 
 section.projects-sections {
-    border-bottom: 5px dotted rgb(179, 62, 138);
+  border-bottom: 5px dotted rgb(179, 62, 138);
 }

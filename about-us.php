@@ -7,9 +7,9 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Raparigas +Visão :: Sobre nós</title>
     <script src="/_js/script.js"></script>
-    <link rel="stylesheet" href="/_css/style.css">
-    <link rel="stylesheet" href="/_css/reset.css">
-    <link rel="stylesheet" href="/_css/bootstrap.css">
+    <link rel="stylesheet" href="_css/style.css">
+    <link rel="stylesheet" href="_css/reset.css">
+    <link rel="stylesheet" href="_css/bootstrap.css">
 
 
 </head>
@@ -215,9 +215,9 @@
 
 
 
-    <script src="/_fontAwesome/js/all.js"></script>
-    <script src="/_js/jquery.js"></script>
-    <script src="/_js/bootstrap.js"></script>
+    <script src="_fontAwesome/js/all.js"></script>
+    <script src="_js/jquery.js"></script>
+    <script src="_js/bootstrap.js"></script>
 </body>
 
 </html>
